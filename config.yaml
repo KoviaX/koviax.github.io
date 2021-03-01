@@ -23,7 +23,7 @@ enableEmoji: true
 params:
   # GitHub repo URL and branch of your site
   gitRepo: https://gitlab.com/hugovdzwaag/zwaag-front-end
-  gitBranch: main
+  gitBranch: master
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
@@ -34,4 +34,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
