@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: Alliander
+      url: "https://www.alliander.com"
+      location: Arnhem
+      # company overview
+      overview: A Distribution system operator responsible for delivering electricity and gas to nearly 6 million households and companies
+    positions:
+      - designation: DevOps Engineer
+        start: Feb 2020
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Design and develop GitOps workflows for multitenant Kubernetes & OpenShift clusters.
+          - Assist in architecting robust architectures for several applications.
+          - Software development in Java, Kotlin & Python.
+          - Teach Kubernetes and cloud native principles to tenants of our platform.
+
+      - designation: Junior DevOps Engineer
+        start: Jun 2018
+        end: Feb 2020
+        responsibilities:
+          - Support users and expand on the existing Kubernetes platform.
+          - Software development in Java.
+          - Expand and improve on existing CI/CD pipelines.
+
+  - company:
+      name: Delta Lloyd / NN
+      url: "https://www.nn.nl"
+      location: Amsterdam
+      overview: Multinational finance company focused on insurance, active in over 20 countries.
+    positions:
+      - designation: Developer
+        start: Dec 2016
+        end: May 2018
+        responsibilities:
+          - Enhance the claims processes using Business Process Management
+          - Analysis of business requirements
+          - Develop in the IBM process designer using Javascript
+
+  - company:
+      name: Addis Abeba University
+      url: "http://www.aau.edu.et/"
+      location: Ethiopia
+      overview: Largest university in Ethiopia
+    positions:
+      - designation: Researcher
+        start: Dec 2015
+        end: Jan 2016
+        responsibilities:
+          - Set up the research project.
+          - Collect field data.
+          - Analyze collected data.

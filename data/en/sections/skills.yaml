@@ -13,24 +13,28 @@ section:
 skills:
   - name: Kubernetes
     logo: "/images/sections/skills/kubernetes.png"
-    summary: "Extensive experience in multi-tenant Kubernetes & OpenShift cluster management and application deployment."
+    summary: "Extensive experience in multi-tenant Kubernetes & Red Hat OpenShift cluster management and application deployment."
     url: "https://kubernetes.io/"
 
   - name: Kotlin development
     logo: "/images/sections/skills/kotlin-logo.svg"
-    summary: "My preferred language for professional and personal development. Capable of writing robust, scalable, testable and maintainable software."
+    summary: "My preferred language for professional and personal software development. Capable of writing clean, scalable, testable and maintainable software."
     url: https://kotlinlang.org/""
 
   - name: Java development
     logo: "/images/sections/skills/java-logo.png"
-    summary: "Main language used in most projects, experience in Spring Boot and Java 11+ on several projects"
+    summary: "Main language used in most projects, experience in Spring Boot and Java 11+ on several projects."
     url: "https://java.com/"
 
   - name: Python development
-    logo: "/images/sections/skills/java-logo.png"
+    logo: "/images/sections/skills/python-logo.png"
     summary: "Mainly used for small DevOps scripts."
-    url: "https://java.com/"
-#
-#  - name: Cloud Computing
-##    logo: "/images/sections/skills/cloud.png"
-#    summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+    url: "https://python.org/"
+
+  - name: Linux
+    logo: "/images/sections/skills/linux.png"
+    summary: "Use it on my own devices, comfortable in writing bash scripts to make life easier"
+
+  - name: Cloud Computing
+    logo: "/images/sections/skills/cloud.png"
+    summary: "Extensive professional experience with AWS, comfortable in using others."

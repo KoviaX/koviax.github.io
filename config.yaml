@@ -8,7 +8,9 @@ languages:
   en:
     languageName: English
     weight: 1
-
+  nl:
+    languageName: Nederlands
+    weight: 3
 # Control TOC depth
 markup:
   tableOfContents:

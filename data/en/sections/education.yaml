@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+  - name: M.Sc. Sustainable Development
+    icon: fa-microscope
+    timeframe: 2014-2016
+    institution:
+      name: Utrecht University
+      url: "https://www.uu.nl/"
+  - name: B.Sc. Science, Business & Innovation
+    icon: fal fa-lightbulb
+    timeframe: 2012-2016
+    institution:
+      name: VU Amsterdam
+      url: "https://www.vu.nl"
+  - name: Grammar school
+    icon: fa-university
+    timeframe: 2006-2011
+    institution:
+      name: Gymnasium Felisenum
+      url: "https://www.felisenum.nl/"
