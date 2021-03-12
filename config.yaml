@@ -38,6 +38,7 @@ params:
   newsletter:
     enable: false
 #    TODO: actual logo
+
   logo:
     main: /images/site/transparent-pixel.png
     inverted: /images/site/transparent-pixel.png

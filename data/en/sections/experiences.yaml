@@ -24,7 +24,7 @@ experiences:
           - Assist in architecting robust architectures for several applications.
           - Software development in Java, Kotlin & Python.
           - Teach Kubernetes and cloud native principles to tenants of our platform.
-          - Guide the scrum process as scrum master (intermittently)
+          - Guide the scrum process as scrum master (intermittently).
 
       - designation: Junior DevOps Engineer
         start: Jun 2018
@@ -33,7 +33,7 @@ experiences:
           - Support users and expand on the existing Kubernetes platform.
           - Software development in Java.
           - Expand and improve on existing CI/CD pipelines.
-          - Guide the scrum process as scrum master (intermittently)
+          - Guide the scrum process as scrum master (intermittently).
 
   - company:
       name: Delta Lloyd / NN
@@ -45,9 +45,9 @@ experiences:
         start: Dec 2016
         end: May 2018
         responsibilities:
-          - Enhance the claims processes using Business Process Management
-          - Analysis of business requirements
-          - Develop in the IBM process designer using Javascript
+          - Enhance the claims processes using Business Process Management.
+          - Analysis of business requirements.
+          - Develop in the IBM process designer using Javascript.
 
   - company:
       name: Addis Abeba University
