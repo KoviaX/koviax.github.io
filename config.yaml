@@ -42,3 +42,5 @@ params:
     main: /images/site/transparent-pixel.png
     inverted: /images/site/transparent-pixel.png
     favicon: /images/site/transparent-pixel.png
+
+  background: /images/site/background-laptop-in-focus.jpg
