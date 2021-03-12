@@ -1,9 +1,10 @@
-name: github pages
+name: Deploy to Github Pages
 
+# run when a commit is pushed to "source" branch
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main
 
 jobs:
   deploy:
@@ -18,7 +19,8 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.81.0'
-          # extended: true
+          extended: true
+
       - uses: actions/cache@v2
         with:
           path: /tmp/hugo_cache
@@ -33,4 +35,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main # if your main branch is `master` use that here.
           publish_dir: ./public
