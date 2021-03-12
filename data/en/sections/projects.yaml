@@ -22,21 +22,20 @@ projects:
   - name: Oracle Certified Professional, Java SE 8 Programmer II
     logo: /images/sections/skills/oracle-logo.png
     timeline: "Nov 2019"
-    summary: Advanced exam focused on the intricacies of Java development
+    summary: Advanced exam focused on the intricacies of Java development.
     tags: ["it"]
   - name: Oracle Certified Associate, Java SE 8 Programmer I
     logo: /images/sections/skills/oracle-logo.png
     timeline: "Apr 2018"
-    summary: Exam focused on the basics of Java development
+    summary: Exam focused on the basics of Java development.
     tags: ["it"]
   - name: Professional Scrum Master I
     timeline: "Aug 2017"
     logo: /images/sections/skills/scrum-logo.png
-    summary: Exam focused on the basics of Java development
+    summary: Certified to fulfill the role of Scrum Master.
     tags: ["it", "general"]
   - name: Certificate of Proficiency in English
     timeline: "2011"
     logo: /images/sections/skills/cambridge-logo.png
-    summary: Highest possible English certification offered by Cambridge University
+    summary: Highest possible English certification offered by Cambridge University.
     tags: ["general"]
-
