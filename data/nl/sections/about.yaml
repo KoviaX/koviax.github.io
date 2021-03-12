@@ -19,7 +19,7 @@ company:
 #resume: "files/resume.pdf"
 
 summary: >
-  I'm an enthusiastic teamplayer, always up for a challenge and not afraid to learn new skills. With a strong passion for sustainability, working on projects that impact the present and future.
+  De Nederlandse vertaling van mijn website is nog niet af, klik rechtsboven op het vlaggetje voor de uitgebreidere, Engelse versie!
 # social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -34,15 +34,15 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-  - name: Learning fast
-    percentage: 85
-    color: green
-  - name: Teamwork
-    percentage: 100
-    color: yellow
-  - name: Problem solving
-    percentage: 80
-    color: blue
-  - name: Perseverance
-    percentage: 90
-    color: sky
+#  - name: Learning fast
+#    percentage: 85
+#    color: green
+#  - name: Teamwork
+#    percentage: 100
+#    color: yellow
+#  - name: Problem solving
+#    percentage: 80
+#    color: blue
+#  - name: Perseverance
+#    percentage: 90
+#    color: sky

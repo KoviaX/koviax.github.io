@@ -1,7 +1,7 @@
 # some information about you
 name: "Hugo van der Zwaag"
 nickname: "Hugo"
-#image: "images/avatar.png"
+image: "images/author/me.jpg"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hallo, ik ben"
