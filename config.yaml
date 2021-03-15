@@ -37,7 +37,7 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
-  #    TODO: actual logo
+  #TODO: actual logo
 
   logo:
     main: /images/site/transparent-pixel.png
