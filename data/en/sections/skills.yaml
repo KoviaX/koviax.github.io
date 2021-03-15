@@ -17,7 +17,7 @@ skills:
     url: "https://kubernetes.io/"
 
   - name: Kotlin development
-    logo: "/images/sections/skills/kotlin-logo.svg"
+    logo: "/images/sections/skills/kotlin-logo.png"
     summary: "My preferred language for professional and personal software development. Capable of writing clean, scalable, testable and maintainable software."
     url: "https://kotlinlang.org/"
 
