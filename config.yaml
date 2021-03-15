@@ -1,4 +1,4 @@
-baseURL: 'https://zwaag.io/'
+baseURL: 'https://koviax.github.io/'
 languageCode: en-us
 title: Zwaag.io
 theme: toha
@@ -25,7 +25,7 @@ enableEmoji: true
 params:
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/KoviaX/koviax.github.io
-  gitBranch: gh-pages
+  gitBranch: main
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
@@ -45,3 +45,4 @@ params:
     favicon: /images/site/transparent-pixel.png
 
   background: /images/site/background-laptop-in-focus.jpg
+
