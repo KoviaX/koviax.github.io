@@ -1,4 +1,4 @@
-baseURL: 'https://koviax.github.io/'
+baseURL: 'https://zwaag.io/'
 languageCode: en-us
 title: Zwaag.io
 theme: toha
@@ -24,8 +24,8 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://gitlab.com/hugovdzwaag/zwaag-front-end
-  gitBranch: master
+  gitRepo: https://github.com/KoviaX/koviax.github.io
+  gitBranch: gh-pages
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
@@ -37,7 +37,7 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
-#    TODO: actual logo
+  #    TODO: actual logo
 
   logo:
     main: /images/site/transparent-pixel.png
