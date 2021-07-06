@@ -19,6 +19,11 @@ buttons:
 
 # your projects
 projects:
+  - name: AWS Certified Solutions Architect – Associate
+    logo: /images/sections/skills/aws-logo.png
+    timeline: "Apr 2021"
+    summary: This exam entailed learning about all of the major services that AWS has to offer and how to solve real-world challenges using these services.
+    tags: ["it"]
   - name: Oracle Certified Professional, Java SE 8 Programmer II
     logo: /images/sections/skills/oracle-logo.png
     timeline: "Nov 2019"

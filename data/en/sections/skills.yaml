@@ -16,6 +16,11 @@ skills:
     summary: "Extensive experience in multi-tenant Kubernetes & Red Hat OpenShift cluster management and application deployment."
     url: "https://kubernetes.io/"
 
+  - name: GitOps
+    logo: "/images/sections/skills/argocd-logo.png"
+    summary: "GitOps is my go-to way-of-working ever since I have discovered ArgoCD as the perfect tool to manage and deploy all applications on Kubernetes."
+    url: "https://argoproj.github.io/argo-cd/"
+
   - name: Kotlin development
     logo: "/images/sections/skills/kotlin-logo.png"
     summary: "My preferred language for professional and personal software development. Capable of writing clean, scalable, testable and maintainable software."
@@ -38,8 +43,8 @@ skills:
 
   - name: Linux
     logo: "/images/sections/skills/linux.png"
-    summary: "Use it on my own devices, comfortable in writing bash scripts to make life easier"
+    summary: "I use different distros (mainly debian based) on my own devices and write bash scripts to make life easier."
 
   - name: Cloud Computing
     logo: "/images/sections/skills/cloud.png"
-    summary: "Extensive professional experience with AWS, comfortable in using others."
+    summary: "Extensive professional experience with AWS, personal experience with DigitalOcean comfortable in using others."

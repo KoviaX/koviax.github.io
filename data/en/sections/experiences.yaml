@@ -20,20 +20,22 @@ experiences:
       - designation: DevOps Engineer
         start: Feb 2020
         responsibilities:
-          - Design and develop GitOps workflows for multitenant Kubernetes & OpenShift clusters.
-          - Assist in architecting robust architectures for several applications.
-          - Software development in Java, Kotlin & Python.
-          - Teach Kubernetes and cloud native principles to tenants of our platform.
+          - Maintain and expand our current multitenant Kubernetes and OpenShift platforms which serve approximately 50 development teams.
+          - Build a fully automated workflow to provision all necessary resources and CI/CD capabilities for new tenants, new teams can start building within 10 minutes.
+          - Design and build CI/CD workflows using several different tools (Jenkins, Tekton, GitLab CI & ArgoCD).
+          - Assist in architecting robust, high-available architectures for several applications.
+          - Software development in Java (11+), Kotlin (1.4+) & Python (3.6+).
+          - Teach Kubernetes and cloud-native principles to tenants of our platform and new team members.
           - Guide the scrum process as scrum master (intermittently).
 
       - designation: Junior DevOps Engineer
         start: Jun 2018
         end: Feb 2020
         responsibilities:
-          - Support users and expand on the existing Kubernetes platform.
-          - Software development in Java.
-          - Expand and improve on existing CI/CD pipelines.
-          - Guide the scrum process as scrum master (intermittently).
+          - Support users and expand on the existing Kubernetes platform serving approximately 10 development teams.
+          - Enterprise software development in Java 8, for an application keeping the electricity network stable
+          - Expand and improve on existing CI/CD pipelines using Jenkins.
+          - Guide the scrum process for our platform team as scrum master (intermittently).
 
   - company:
       name: Delta Lloyd / NN
@@ -47,6 +49,7 @@ experiences:
         responsibilities:
           - Enhance the claims processes using Business Process Management.
           - Analysis of business requirements.
+          - Basic Java development
           - Develop in the IBM process designer using Javascript.
 
   - company:
