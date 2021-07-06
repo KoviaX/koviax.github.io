@@ -33,7 +33,7 @@ experiences:
         end: Feb 2020
         responsibilities:
           - Support users and expand on the existing Kubernetes platform serving approximately 10 development teams.
-          - Enterprise software development in Java 8, for an application keeping the electricity network stable
+          - Enterprise software development in Java 8, for an application keeping the electricity network stable.
           - Expand and improve on existing CI/CD pipelines using Jenkins.
           - Guide the scrum process for our platform team as scrum master (intermittently).
 
@@ -49,7 +49,7 @@ experiences:
         responsibilities:
           - Enhance the claims processes using Business Process Management.
           - Analysis of business requirements.
-          - Basic Java development
+          - Basic Java development.
           - Develop in the IBM process designer using Javascript.
 
   - company:
