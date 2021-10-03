@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: DevOn
+      url: "https://www.devon.nl"
+      location: Delft
+      overview: Through consultancy, training and DevOps delivery teams, DevOn helps organizations to radically improve their software development so they can stay ahead of the competition in this rapidly changing market.
+    positions:
+      - designation: DevOps Consultant
+        start: Oct 2021
+        responsibilities:
+          - Building and designing CI/CD pipelines and components in several programming languages.
+          - Providing and developing training in several DevOps related topics.
+          - Cloud consultancy
+
+  - company:
       name: Alliander
       url: "https://www.alliander.com"
       location: Arnhem
@@ -19,6 +32,7 @@ experiences:
     positions:
       - designation: DevOps Engineer
         start: Feb 2020
+        end: Sept 2021
         responsibilities:
           - Maintain and expand our current multitenant Kubernetes and OpenShift platforms which serve approximately 50 development teams.
           - Build a fully automated workflow to provision all necessary resources and CI/CD capabilities for new tenants, new teams can start building within 10 minutes.
