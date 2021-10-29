@@ -11,8 +11,8 @@ section:
 designation: DevOps Engineer
 # your company information
 company:
-  name: Alliander
-  url: "https://www.alliander.com"
+  name: DevOn
+  url: "https://www.devon.nl/"
 
 # your resume. this file path should be relative to you "static" directory
 #TODO: Add resume
