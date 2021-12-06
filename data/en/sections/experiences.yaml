@@ -21,7 +21,22 @@ experiences:
         responsibilities:
           - Building and designing CI/CD pipelines and components in several programming languages.
           - Providing and developing training in several DevOps related topics.
-          - Cloud consultancy
+          - Cloud engineering and consultancy.
+
+  - company:
+      name: NN
+      url: "https://www.nn.nl"
+      location: Den Haag
+      overview: Multinational finance company focused on insurance, active in over 20 countries.
+    positions:
+      - designation: DevOps Consultant (through DevOn)
+        start: Oct 2021
+        responsibilities:
+          - Building serverless workflows in AWS Lambda.
+          - Create CI/CD pipelines.
+          - Provision infrastructure as code using Terraform on Azure, Azure DevOps and AWS.
+          - Presenting and explaining the solutions to the (internal) customers.
+          - Software development in Python.
 
   - company:
       name: Alliander
