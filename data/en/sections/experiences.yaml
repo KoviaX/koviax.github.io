@@ -52,6 +52,7 @@ experiences:
           - Maintain and expand our current multitenant Kubernetes and OpenShift platforms which serve approximately 50 development teams.
           - Build a fully automated workflow to provision all necessary resources and CI/CD capabilities for new tenants, new teams can start building within 10 minutes.
           - Design and build CI/CD workflows using several different tools (Jenkins, Tekton, GitLab CI & ArgoCD).
+          - Build and deploy Helm charts.
           - Assist in architecting robust, high-available architectures for several applications.
           - Software development in Java (11+), Kotlin (1.4+) & Python (3.6+).
           - Teach Kubernetes and cloud-native principles to tenants of our platform and new team members.
