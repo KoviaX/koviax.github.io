@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Nederlandse Spoorwegen
+      url: "https://www.ns.nl"
+      location: Utrecht
+      overview: NS is the largest public transport company in the Netherlands, mostly known for national railway transport.
+    positions:
+      - designation: Site Reliability Engineer
+        start: Jan 2022
+        responsibilities:
+          - Improving reliability, stability and security of applications and platforms.
+          - Aiding teams in their migration to cloud-native development.
+          - Advocating and teaching DevOps principles to development teams.
+
+  - company:
       name: DevOn
       url: "https://www.devon.nl"
       location: Delft
@@ -18,6 +31,7 @@ experiences:
     positions:
       - designation: DevOps Consultant
         start: Oct 2021
+        end: Dec 2021
         responsibilities:
           - Building and designing CI/CD pipelines and components in several programming languages.
           - Providing and developing training in several DevOps related topics.
@@ -31,6 +45,7 @@ experiences:
     positions:
       - designation: DevOps Consultant (through DevOn)
         start: Oct 2021
+        end: Dec 2021
         responsibilities:
           - Building serverless workflows in AWS Lambda.
           - Create CI/CD pipelines.

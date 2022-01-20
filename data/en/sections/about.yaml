@@ -11,8 +11,8 @@ section:
 designation: DevOps Consultant
 # your company information
 company:
-  name: DevOn
-  url: "https://www.devon.nl/"
+  name: Zwaag.io
+  url: "https://www.zwaag.io/"
 
 # your resume. this file path should be relative to you "static" directory
 #TODO: Add resume
