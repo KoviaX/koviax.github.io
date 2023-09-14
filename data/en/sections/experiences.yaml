@@ -26,7 +26,7 @@ experiences:
           - Improving applications and pipelines running on several cloud platforms (AWS, Azure & others)
           - Migrating teams to and designing serverless architectures on AWS.
 
-    - company:
+  - company:
       name: NN
       url: "https://www.nn.nl"
       location: Rotterdam
