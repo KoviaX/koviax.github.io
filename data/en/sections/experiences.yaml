@@ -11,6 +11,21 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Enexis
+      url: "https://www.enexis.nl"
+      location: Den Bosch
+      overview: A distribution grid operator delivering power and gas to millions of households and companies
+    positions:
+      - designation: Technical team lead / Cloud engineer
+        start: Dec 2023
+        responsibilities:
+          - Designing and building a new application providing a central data hub for multiple teams
+          - Building CI/CD pipelines
+          - Migrating applications to a Kubernetes platform
+          - Hiring/building a high-skilled development team
+          - Training colleagues in software development
+          - Helping build an engineering culture
+  - company:
       name: Nederlandse Spoorwegen
       url: "https://www.ns.nl"
       location: Utrecht
